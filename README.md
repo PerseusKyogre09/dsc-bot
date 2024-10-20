@@ -26,11 +26,11 @@ To install and run this bot, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/PerseusKyogre09/dsc-bot
    ```
 2. Navigate to the project directory:
 ```bash
-cd <project_directory>
+cd dsc-bot
 ```
 2. Install the required packages:
 ```bash
