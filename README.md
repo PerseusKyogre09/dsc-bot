@@ -19,7 +19,7 @@ The following features are planned for future updates:
 - **Customizable Prefix**: Allow server admins to set a custom command prefix for the bot.
 
 ## Screenshots
-![Image](https://imgur.com/a/HnQV5Xu.png)
+![Image](https://imgur.com/J5QFqLX.png)
 
 ## Installation
 To install and run this bot, follow these steps:
